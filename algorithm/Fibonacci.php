@@ -9,7 +9,6 @@ function Fibonacci ($n)
         return 0;
     }
 
-    // if ($n)
     return Fibonacci($n - 1)  + Fibonacci($n - 2) ;
 }
 
