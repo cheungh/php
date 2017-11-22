@@ -1,5 +1,18 @@
 <?php
 /**
+    1. let n be total count of list
+
+    2. outer loop for all element in n
+    for iteration from 0 < n
+    let i be iterate variable
+
+
+    3. inner loop for all element in
+    for iteration from 0 < n - 1
+    let j be iterate variable
+    if j > j + 1
+        call swap with list, j, j + 1
+    end if
  */
 function bubbleSort($a) {
     // total number of items
