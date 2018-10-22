@@ -1,3 +1,6 @@
+### this example taken from 
+# python doc
+# 
 from SimpleXMLRPCServer import SimpleXMLRPCServer
 from SimpleXMLRPCServer import SimpleXMLRPCRequestHandler
 
