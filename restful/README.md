@@ -1,4 +1,4 @@
-## python server and client example
+## server and php client example
 install flask  
 `pip install flask==0.10.1`  
 
