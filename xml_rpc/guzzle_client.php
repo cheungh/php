@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 /*
 $xml = '<?xml version=\'1.0\'?>  
 <methodCall>
